@@ -1,0 +1,10 @@
+name = "azure-keyvault"
+main = "src/index.js"
+compatibility_date = "2023-05-25"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
+
+[vars]
